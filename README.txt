@@ -6,4 +6,6 @@ Relación de los proyectos:
 		El link para probarlo con la extensión REST de Firefox es: http://127.0.0.1:8080/RecibirArchivo-0.1/api/recibir
 		Es necesario crear un Header Content-type application/json (en la extensión REST de firefox) para que los datos puedan ser recibidos
 
-		
+Tutorial crunchify:	
+	http://crunchify.com/create-very-simple-jersey-rest-service-and-send-json-data-from-java-client/
+	
